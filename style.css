@@ -1,0 +1,62 @@
+.imgs{
+    float: left;
+    width: 80px;
+    height: 80px;
+}
+.links{
+    float: right;
+    margin-right: 100;
+    padding: 10px;
+}
+a{
+    margin: 10px;
+}
+hr{
+    clear: both;
+}
+.slide{
+    float: left;
+    color: black;
+    background-color: red;
+    text-align: center;
+    font-size: large;
+    width: 20%;
+}
+.ex{
+    border: 3px solid gold;
+}
+.ex
+{
+    padding: 20px;
+}
+.right
+{
+    flex-direction: column;
+    float: right;
+    border: 5px dotted black;
+    width: 80%;
+}
+.section{
+    display: flex;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+    min-height: 60vh;
+}
+.imgs1{
+    width: 100px;
+    height: 100px;
+    padding-inline: 15px;
+}
+.pooter{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+}
+p{
+    margin: 10px;
+}
